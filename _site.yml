@@ -1,0 +1,6 @@
+name: "Create a simple github pages website"
+output:
+  html_document:
+    theme: cosmo
+    #highlight: textmate
+output_dir: "."
